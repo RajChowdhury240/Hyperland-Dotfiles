@@ -14,4 +14,4 @@ My Arch (Hyperland) dotfiles
 ![](files.png)
 
 ## Spotify
-![](spotify.png)
+![](Spotify.png)
