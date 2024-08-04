@@ -1,5 +1,6 @@
 # Hyperland-Dotfiles
 My Arch (Hyperland) dotfiles
+![](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/arch.png)
 
 ## UI
 ![](UI.png)
